@@ -24,9 +24,9 @@ Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mdurl==0.1.2
-ml-dtypes==0.4.0
+ml-dtypes
 namex==0.0.8
-numpy==1.26.4
+numpy
 opt-einsum==3.3.0
 optree==0.12.1
 packaging==24.1
