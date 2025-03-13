@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center; /* Centers the headline */
+    margin-top: 20px;   /* Adds some space above the headline */
+}
+
+table {
+    width: 60%;  /* Adjust to your preferred width */
+    margin: 20px auto;  /* Centers the table horizontally */
+    border-collapse: collapse;
+} 
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+form {
+    width: 300px; /* Adjust as needed */
+    margin: 0 auto; /* Centers it horizontally */
+    text-align: center; /* Centers text inside the form */
+}
