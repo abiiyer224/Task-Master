@@ -17,7 +17,7 @@ table {
 th, td {
     border: 1px solid black;
     padding: 10px;
-    text-align: left;
+    text-align: center;
 }
 
 th {
@@ -28,3 +28,4 @@ form {
     margin: 0 auto; /* Centers it horizontally */
     text-align: center; /* Centers text inside the form */
 }
+
